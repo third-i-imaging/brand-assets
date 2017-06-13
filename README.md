@@ -1,5 +1,3 @@
-# Third **i** Imaging and Diagnostics
+# Third *i* Imaging and Diagnostics
 
----
-
-All rights reserved.
+All Rights Reserved.
